@@ -1,0 +1,80 @@
+.img1{
+height:100px;
+width:100px;
+}
+ 
+.img2{
+height:100px;
+width:100px;
+}
+ 
+ /* unvisited link */
+a:link {
+  color: #005ce6;
+}
+
+/* visited link */
+a:visited {
+  color: #1a8cff;
+}
+
+/* mouse over link */
+a:hover {
+  color: #ffd11a;
+}
+
+/* selected link */
+a:active {
+  color: #ffa31a;
+}
+
+body{
+	 background-image: url("capf3.jpg");
+}
+table{
+      text-align:center;
+      background-color:#80bfff;
+      opacity:0.95 ;
+      width:70%;
+}
+
+ .img1{
+height:100px;
+width:100px;
+}
+ 
+.img2{
+height:200px;
+width:200px;
+}
+ 
+ /* unvisited link */
+a:link {
+  color: #005ce6;
+}
+
+/* visited link */
+a:visited {
+  color: #1a8cff;
+}
+
+/* mouse over link */
+a:hover {
+  color: #ffd11a;
+}
+
+/* selected link */
+a:active {
+  color: #ffa31a;
+}
+
+body{
+   background-image: url("capf3.jpg");
+}
+
+table{
+      text-align:center;
+      background-color:#80bfff;
+      opacity:0.95 ;
+      width:70%;
+}
